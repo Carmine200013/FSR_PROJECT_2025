@@ -1,6 +1,6 @@
 # FSR_PROJECT_2025
 
-Open the Simulink file "geometric\_control\_load.slx".
+Open the Simulink file "geometric\_control\_load.slx".\\
 Choose the type of trajectory to execute by setting the value of the variable `type_traj`, located in *Model Properties -> InitFcn*:
 
 * If `type_traj = 0` → elliptical trajectory
