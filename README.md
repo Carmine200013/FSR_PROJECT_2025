@@ -9,3 +9,6 @@ Choose the type of trajectory to execute by setting the value of the variable `t
 
 Then run the Simulink file.
 To generate animations and plots, run the corresponding MATLAB script ("Plot\_UAV\_Load.m")
+
+# References
+Sreenath Koushil, Taeyoung Lee, and Vijay Kumar. "Geometric control and differential flatness of a quadrotor UAV with a cable-suspended load." 52nd IEEE Conference on Decision and Control. IEEE, 2013.
